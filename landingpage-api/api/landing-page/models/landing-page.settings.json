@@ -65,6 +65,11 @@
       "type": "component",
       "repeatable": false,
       "component": "landing-page.section-reviews"
+    },
+    "sectionFaq": {
+      "type": "component",
+      "repeatable": false,
+      "component": "landing-page.section-faq"
     }
   }
 }
