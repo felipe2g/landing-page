@@ -28,7 +28,7 @@
     "sectionAboutProject": {
       "type": "component",
       "repeatable": false,
-      "component": "landing-page.what-we-do"
+      "component": "landing-page.section-about-project"
     }
   }
 }

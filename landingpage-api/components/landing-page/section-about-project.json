@@ -1,7 +1,7 @@
 {
-  "collectionName": "components_landing_page_what_we_dos",
+  "collectionName": "components_landing_page_section_about_projects",
   "info": {
-    "name": "whatWeDo",
+    "name": "sectionAboutProject",
     "icon": "hammer"
   },
   "options": {},
@@ -17,7 +17,7 @@
     },
     "title": {
       "type": "string",
-      "unique": true,
+      "required": true,
       "maxLength": 20
     },
     "description": {
