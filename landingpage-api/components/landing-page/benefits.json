@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_landing_page_benefits",
+  "info": {
+    "name": "benefits",
+    "icon": "gift"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

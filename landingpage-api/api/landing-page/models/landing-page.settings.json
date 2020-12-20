@@ -50,6 +50,11 @@
       "type": "component",
       "repeatable": false,
       "component": "landing-page.section-agenda"
+    },
+    "pricingBox": {
+      "type": "component",
+      "repeatable": false,
+      "component": "landing-page.pricing-box"
     }
   }
 }

@@ -1,0 +1,33 @@
+{
+  "collectionName": "components_landing_page_pricing_boxes",
+  "info": {
+    "name": "pricingBox",
+    "icon": "dollar-sign"
+  },
+  "options": {},
+  "attributes": {
+    "totalPrice": {
+      "type": "integer",
+      "required": true
+    },
+    "numberInstallments": {
+      "type": "integer",
+      "required": true
+    },
+    "priceInstallment": {
+      "type": "integer",
+      "required": true
+    },
+    "benefits": {
+      "type": "component",
+      "repeatable": false,
+      "component": "landing-page.benefits"
+    },
+    "button": {
+      "type": "component",
+      "repeatable": false,
+      "component": "landing-page.button",
+      "required": true
+    }
+  }
+}
