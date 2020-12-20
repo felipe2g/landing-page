@@ -2,7 +2,8 @@
   "collectionName": "components_landing_page_pricing_boxes",
   "info": {
     "name": "pricingBox",
-    "icon": "dollar-sign"
+    "icon": "dollar-sign",
+    "description": ""
   },
   "options": {},
   "attributes": {
@@ -20,7 +21,7 @@
     },
     "benefits": {
       "type": "component",
-      "repeatable": false,
+      "repeatable": true,
       "component": "landing-page.benefits"
     },
     "button": {

@@ -2,13 +2,13 @@
   "collectionName": "components_landing_page_benefits",
   "info": {
     "name": "benefits",
-    "icon": "gift"
+    "icon": "gift",
+    "description": ""
   },
   "options": {},
   "attributes": {
-    "title": {
-      "type": "string",
-      "required": true
+    "benefit": {
+      "type": "richtext"
     }
   }
 }
