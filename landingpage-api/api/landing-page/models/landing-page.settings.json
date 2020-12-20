@@ -60,6 +60,11 @@
       "type": "component",
       "repeatable": false,
       "component": "landing-page.section-about-us"
+    },
+    "sectionReviews": {
+      "type": "component",
+      "repeatable": false,
+      "component": "landing-page.section-reviews"
     }
   }
 }
