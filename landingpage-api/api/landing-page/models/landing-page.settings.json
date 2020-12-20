@@ -45,6 +45,11 @@
       "repeatable": false,
       "component": "landing-page.section-modules",
       "required": true
+    },
+    "sectionAgenda": {
+      "type": "component",
+      "repeatable": false,
+      "component": "landing-page.section-agenda"
     }
   }
 }
