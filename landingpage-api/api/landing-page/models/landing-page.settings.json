@@ -39,6 +39,12 @@
       "type": "component",
       "repeatable": false,
       "component": "landing-page.section-concepts"
+    },
+    "sectionModules": {
+      "type": "component",
+      "repeatable": false,
+      "component": "landing-page.section-modules",
+      "required": true
     }
   }
 }
